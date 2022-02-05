@@ -7,7 +7,7 @@
 
 ## server
 - npm i
-- npm run dev
+- node index.js
 - http://localhost:3000/
 
 Dejar corriendo ambos 
