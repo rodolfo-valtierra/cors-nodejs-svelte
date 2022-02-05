@@ -1,4 +1,4 @@
-***** implementacion de cors en servidor para separar backend y frontend
+# implementacion de cors en servidor para separar backend y frontend
 
 * cliente:
 - npm i
