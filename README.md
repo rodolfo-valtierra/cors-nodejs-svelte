@@ -1,11 +1,11 @@
 # implementacion de cors en servidor para separar backend y frontend
 
-* cliente:
+## cliente:
 - npm i
 - npm run dev
 - http://localhost:8080/
 
-* server
+## server
 - npm i
 - npm run dev
 - http://localhost:3000/
